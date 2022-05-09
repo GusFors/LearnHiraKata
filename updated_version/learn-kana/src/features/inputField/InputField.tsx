@@ -2,7 +2,7 @@ import React from 'react'
 import styles from './InputField.module.css'
 
 type inputProps = {
-    setvalue: any
+    setvalue: React.Dispatch<React.SetStateAction<string>>
 }
 
 function InputField({ setvalue }: inputProps) {
