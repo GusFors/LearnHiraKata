@@ -1,0 +1,7 @@
+.border {
+  text-align: start;
+  width: 80%;
+  margin: 2%;
+  margin-left: 5%;
+  border: 5px solid rgba(0, 126, 0, 0.801);
+}
